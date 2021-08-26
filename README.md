@@ -1,2 +1,5 @@
 # StreamerPanicButton
 Streamer Panic Button: In case of a hate raid, this button will play 180 second ad, turn on sub only chat, clear chat, emotes only, slow mode, and will also make a stream marker and clip for easier reporting and banning on Twitch. It also has a setting for toggling a source in OBS where you can have scrolling text explaining what is happening. There are a few cosmetic things you can edit, but it is a toggle button. I've seen a few other similar ones, but they only had sub only mode. You can directly import the button using the .tpb file. Share this with other streamers that use Touch Portal that aren't part of the Touch Portal Discord (you can also find the button in the #buttons-gallery on the Touch Portal Discord)
+
+
+USE: Download the file, import it as a button into Touch Portal, then open it and edit the on event triggers to use whatever toggle icon you want to use, and to point it to the OBS source you want to toggle. Personally, I have a text scroll on my screen that says "We are experiencing a hate raid, please be patient while it is dealt with. And to all the haters, you will have to pay me to be able to speak."
