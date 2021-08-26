@@ -1,0 +1,2 @@
+# StreamerPanicButton
+Streamer Panic Button: In case of a hate raid, this button will play 180 second ad, turn on sub only chat, clear chat, emotes only, slow mode, and will also make a stream marker and clip for easier reporting and banning on Twitch. It also has a setting for toggling a source in OBS where you can have scrolling text explaining what is happening. There are a few cosmetic things you can edit, but it is a toggle button. I've seen a few other similar ones, but they only had sub only mode.
